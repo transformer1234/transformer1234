@@ -58,13 +58,7 @@
 |---|---|---|
 | **RAG PDF Chatbot** | PDF Q&A using ChromaDB + Groq + Streamlit | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/transformer1234/rag-pdf-chatbot) [![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://mt-rag-pdf-chatbot.streamlit.app/) |
 | **Customer Churn Prediction API** | FastAPI + RandomForest + Docker, deployed on Render | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/transformer1234/customer-churn-api) [![Live](https://img.shields.io/badge/Live-46E3B7?style=flat&logo=render&logoColor=black)](https://customer-churn-api-pcgv.onrender.com) |
-
----
-
-## 📊 GitHub Stats
-
-![Masudahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=transformer1234&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=transformer1234&layout=compact&theme=default&hide_border=true)
+| **Job Application Tracker MCP** | FastAPI + FastMCP + Streamlit + PostgreSQL + Render | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)]([https://github.com/transformer1234/customer-churn-api](https://github.com/transformer1234/job-application-tracker)) [![Live](https://img.shields.io/badge/Live-46E3B7?style=flat&logo=render&logoColor=black)](https://customer-churn-api-pcgv.onrender.com) |
 
 ---
 
