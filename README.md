@@ -2,7 +2,7 @@
 
 🎓 ECE graduate from **VNIT Nagpur-25**  
 🤖 Passionate about **Machine Learning, Deep Learning, NLP, and Computer Vision**  
-🚀 Building production-ready ML systems — from Kaggle notebooks to deployed APIs  
+🚀 Building production-ready ML systems — from Kaggle notebooks to deployed APIs, MCP servers  
 📍 Pune, India | Open to **Data Scientist / ML Engineer** roles
 
 ---
@@ -39,7 +39,7 @@
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
 
-**Data & Databases**  
+**Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
@@ -61,13 +61,14 @@
 |---|---|---|
 | **RAG PDF Chatbot** | PDF Q&A using ChromaDB + Groq + Streamlit | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/transformer1234/rag-pdf-chatbot) [![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://mt-rag-pdf-chatbot.streamlit.app/) |
 | **Customer Churn Prediction API** | FastAPI + RandomForest + Docker, deployed on Render | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/transformer1234/customer-churn-api) [![Live](https://img.shields.io/badge/Live-46E3B7?style=flat&logo=render&logoColor=black)](https://customer-churn-api-pcgv.onrender.com) |
-| **Job Application Tracker MCP** | FastAPI + FastMCP + Streamlit + PostgreSQL + Render | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/transformer1234/job-application-tracker) [![Live](https://img.shields.io/badge/Live-46E3B7?style=flat&logo=render&logoColor=black)](https://job-application-tracker-api-eu2z.onrender.com) |
+| **Job Application Tracker MCP** | FastAPI + FastMCP + Streamlit + PostgreSQL + Render | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/transformer1234/job-application-tracker) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/transformer1234/job-application-mcp)
+[![Live](https://img.shields.io/badge/Live-46E3B7?style=flat&logo=render&logoColor=black)](https://job-application-tracker-api-eu2z.onrender.com) [![Live](https://img.shields.io/badge/Live-46E3B7?style=flat&logo=render&logoColor=black)](https://job-application-tracker-api-eu2z.onrender.com) |
 
 ---
 
 ## 🏆 Certifications
 
-- 📜 **IBM Data Science Professional Certificate** — Coursera (2025)
+- 📜 **IBM Data Science Professional Certificate** — Coursera (2026)
 
 ---
 
